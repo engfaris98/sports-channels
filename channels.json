@@ -1,0 +1,20 @@
+[
+  {
+    "name": "beIN Sports 1",
+    "logoUrl": "https://via.placeholder.com/100",
+    "streamUrl": "http://renvioweb.online:8080/xxxxx",
+    "order": 1
+  },
+  {
+    "name": "beIN Sports 2",
+    "logoUrl": "https://via.placeholder.com/100",
+    "streamUrl": "http://renvioweb.online:8080/yyyyy",
+    "order": 2
+  },
+  {
+    "name": "beIN Sports 3",
+    "logoUrl": "https://via.placeholder.com/100",
+    "streamUrl": "http://renvioweb.online:8080/zzzzz",
+    "order": 3
+  }
+]
