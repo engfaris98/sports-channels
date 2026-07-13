@@ -2,25 +2,25 @@
   {
     "name": "beIN Sports 1",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/bein1.png",
-    "streamUrl": "http://renvioweb.online:8080/355495027751/258728951891/721661",
+    "streamUrl": "http://renvioweb.online:8080/355495027751/258728951891/721661.m3u8",
     "order": 1
   },
   {
     "name": "beIN Sports 2",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/bein2.png",
-    "streamUrl": "http://renvioweb.online:8080/305623682974/358358139605/721665",
+    "streamUrl": "http://renvioweb.online:8080/305623682974/358358139605/721665.m3u8",
     "order": 2
   },
   {
     "name": "beIN Sports 3",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/bein3.png",
-    "streamUrl": "https://corsply-v0s4.cfallinone.workers.dev/?url=https%3A%2F%2Falpha.tv.online.tm%2Fhls%2Fch004_720%2Findex.m3u8",
+    "streamUrl": "https://corsply-v0s4.cfallinone.workers.dev/?url=https%3A%2F%2Falpha.tv.online.tm%2Fhls%2Fch004_720%2Findex",
     "order": 3
   },
   {
     "name": "beIN Sports 4",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/bein4.png",
-    "streamUrl": "http://renvioweb.online:8080/141517551336/350772252851/721673",
+    "streamUrl": "http://renvioweb.online:8080/141517551336/350772252851/721673.m3u8",
     "order": 4
   }
 ]
