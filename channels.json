@@ -72,14 +72,14 @@
     "order": 12
     },
   {
-    "name": "MBC3",
-    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/mbc3.jpg",
-    "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
+    "name": "Al Sharqiya",
+    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/Tv1.png",
+    "streamUrl": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8",
     "order": 13
     },
   {
     "name": "MBC3",
-    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/mbc3.jpg",
+    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/keds1.png",
     "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
     "order": 14
     },
@@ -90,9 +90,9 @@
     "order": 15
     },
   {
-    "name": "Al Sharqiya",
-    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/news.png",
-    "streamUrl": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8",
+    "name": "Full Action Movies",
+    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/Tv2.png",
+    "streamUrl": "https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8",
     "order": 16
     }
 ]
