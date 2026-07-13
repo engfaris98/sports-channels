@@ -24,39 +24,69 @@
     "order": 4
   },
   {
+    "name": "beIN Sports 5",
+    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/sport5.png",
+    "streamUrl": "http://renvioweb.online:8080/305623682974/358358139605/721665",
+    "order": 5
+  },
+  {
+    "name": "beIN Sports 6",
+    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/sport6.png",
+    "streamUrl": "http://renvioweb.online:8080/305623682974/358358139605/721665",
+    "order": 6
+  },
+  {
+    "name": "beIN Sports 7",
+    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/sport7.png",
+    "streamUrl": "http://renvioweb.online:8080/305623682974/358358139605/721665",
+    "order": 7
+  },
+  {
+    "name": "beIN Sports 8",
+    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/sport8.png",
+    "streamUrl": "http://renvioweb.online:8080/305623682974/358358139605/721665",
+    "order": 8
+  },
+  {
     "name": "TRT 1 ",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/bein5.png",
     "streamUrl": "https://tv-trt1.medya.trt.com.tr/master_480.m3u8",
-    "order": 5
+    "order": 9
     },
   {
     "name": "الشرقية",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/news.png",
     "streamUrl": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8",
-    "order": 6
+    "order": 10
     },
   {
     "name": "قناة الكاس 2",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/sport5.png",
     "streamUrl": "https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8",
-    "order": 7
+    "order": 11
     },
   {
     "name": "قناه افلام باب الحاره",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/bein8.png",
     "streamUrl": "https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8",
-    "order": 8
+    "order": 12
     },
   {
     "name": "MBC3",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/mbc3.jpg",
     "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
-    "order": 9
+    "order": 13
+    },
+  {
+    "name": "MBC3",
+    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/mbc3.jpg",
+    "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
+    "order": 14
     },
   {
     "name": "Star TV",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/star-tv.png",
     "streamUrl": "https://dogus-live.daioncdn.net/startv/startv_720p-1783905260000.ts?",
-    "order": 10
+    "order": 15
     }
 ]
