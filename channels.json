@@ -55,26 +55,20 @@
     },
   {
     "name": "قناة الكاس 1",
-    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/news.png",
-    "streamUrl": "https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8",
+    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/sport9.png",
+    "streamUrl": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8",
     "order": 10
     },
   {
     "name": "قناة الكاس 2",
-    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/news.png",
+    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/sport10.png",
     "streamUrl": "https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8",
-    "order": 16
-    },
-  {
-    "name": "Al Sharqiya",
-    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/news.png",
-    "streamUrl": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8",
     "order": 11
     },
   {
-    "name": "قناه افلام باب الحاره",
-    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/bein8.png",
-    "streamUrl": "https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8",
+    "name": "AlSharqiya Live",
+    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/news.png",
+    "streamUrl": "https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8",
     "order": 12
     },
   {
@@ -94,5 +88,11 @@
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/star-tv.png",
     "streamUrl": "https://dogus-live.daioncdn.net/startv/startv_720p-1783905260000.ts?",
     "order": 15
-    }
+    },
+  {
+    "name": "Al Sharqiya",
+    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/news.png",
+    "streamUrl": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8",
+    "order": 16
+    },
 ]
