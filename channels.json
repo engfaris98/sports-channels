@@ -55,7 +55,7 @@
     },
   {
     "name": "Star TV",
-    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/bein10.png",
+    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/star-tv.png",
     "streamUrl": "https://dogus-live.daioncdn.net/startv/startv_720p-1783905260000.ts?",
     "order": 10
     }
