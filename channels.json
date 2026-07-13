@@ -49,7 +49,7 @@
     },
   {
     "name": "MBC3",
-    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/bein9.png",
+    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/mbc3.jpg",
     "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
     "order": 9
     },
