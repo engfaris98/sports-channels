@@ -1,48 +1,48 @@
 [
   {
-    "name": "Spicy Sport 1",
+    "name": "beIN Sports 1",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/sport1.png",
     "streamUrl": "http://renvioweb.online:8080/355495027751/258728951891/721661",
     "order": 1
   },
   {
-    "name": "Spicy Sport 2",
+    "name": "beIN Sports 2",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/sport2.png",
     "streamUrl": "http://renvioweb.online:8080/305623682974/358358139605/721665",
     "order": 2
   },
   {
-    "name": "Spicy Sport 3",
+    "name": "beIN Sports 3",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/sport3.png",
     "streamUrl": "http://renvioweb.online:8080/376397337639/304442641534/721669",
     "order": 3
   },
   {
-    "name": "Spicy Sport 4",
+    "name": "beIN Sports 4",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/sport4.png",
     "streamUrl": "http://renvioweb.online:8080/141517551336/350772252851/721673",
     "order": 4
   },
   {
-    "name": "Spicy Sport 5",
+    "name": "beIN Sports 5",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/sport5.png",
     "streamUrl": "http://renvioweb.online:8080/133983069999/199473158520/721675",
     "order": 5
   },
   {
-    "name": "Spicy Sport 6",
+    "name": "beIN Sports 6",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/sport6.png",
     "streamUrl": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8",
     "order": 6
   },
   {
-    "name": "Spicy Sport 7",
+    "name": "beIN Sports 7",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/sport7.png",
     "streamUrl": "http://renvioweb.online:8080/305623682974/358358139605/721665",
     "order": 7
   },
   {
-    "name": "Spicy Sport 8",
+    "name": "beIN Sports 8",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/sport8.png",
     "streamUrl": "http://renvioweb.online:8080/305623682974/358358139605/721665",
     "order": 8
