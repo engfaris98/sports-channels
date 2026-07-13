@@ -34,5 +34,29 @@
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/bein6.png",
     "streamUrl": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8",
     "order": 6
+    },
+  {
+    "name": "قناة الكاس 2",
+    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/bein6.png",
+    "streamUrl": "https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8",
+    "order": 7
+    },
+  {
+    "name": "قناه افلام باب الحاره",
+    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/bein6.png",
+    "streamUrl": "https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8",
+    "order": 8
+    },
+  {
+    "name": "MBC3",
+    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/bein6.png",
+    "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
+    "order": 9
+    },
+  {
+    "name": "Star TV",
+    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/bein6.png",
+    "streamUrl": "https://dogus-live.daioncdn.net/startv/startv_720p-1783905260000.ts?",
+    "order": 10
     }
 ]
