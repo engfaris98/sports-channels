@@ -1,13 +1,13 @@
 [
   {
     "name": "beIN Sports 1",
-    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/bein01.png",
+    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/bein1.png",
     "streamUrl": "http://renvioweb.online:8080/355495027751/258728951891/721661",
     "order": 1
   },
   {
     "name": "beIN Sports 2",
-    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/bein1.png",
+    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/bein2.png",
     "streamUrl": "http://renvioweb.online:8080/305623682974/358358139605/721665",
     "order": 2
   },
