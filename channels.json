@@ -7,19 +7,19 @@
   },
   {
     "name": "beIN Sports 2",
-    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/bein2.png",
+    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/sport2.png",
     "streamUrl": "http://renvioweb.online:8080/305623682974/358358139605/721665",
     "order": 2
   },
   {
     "name": "beIN Sports 3",
-    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/bein3.png",
+    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/sport3.png",
     "streamUrl": "http://renvioweb.online:8080/376397337639/304442641534/721669",
     "order": 3
   },
   {
     "name": "beIN Sports 4",
-    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/bein4.png",
+    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/sport4.png",
     "streamUrl": "http://renvioweb.online:8080/141517551336/350772252851/721673",
     "order": 4
   },
