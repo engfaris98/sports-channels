@@ -28,5 +28,11 @@
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/bein5.png",
     "streamUrl": "https://tv-trt1.medya.trt.com.tr/master_480.m3u8",
     "order": 5
+    },
+  {
+    "name": "الشرقية",
+    "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/bein6.png",
+    "streamUrl": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8",
+    "order": 6
     }
 ]
