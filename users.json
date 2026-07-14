@@ -1,10 +1,12 @@
 [
   {
     "username": "admin",
-    "password": "123456"
+    "password": "123456",
+    "expiryDate": "2026-12-31"
   },
   {
     "username": "faris",
-    "password": "mypassword"
+    "password": "mypassword",
+    "expiryDate": "2027-07-14"
   }
 ]
