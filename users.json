@@ -2,11 +2,13 @@
   {
     "username": "admin",
     "password": "123456",
+    "name": "محمد حسن",
     "expiryDate": "2026-12-31"
   },
   {
     "username": "faris",
     "password": "mypassword",
+    "name": "فارس علي",
     "expiryDate": "2027-07-14"
   }
 ]
