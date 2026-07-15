@@ -3,108 +3,126 @@
     "name": "beIN Sports 1",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/sport1.png",
     "streamUrl": "http://renvioweb.online:8080/355495027751/258728951891/721661",
+    "category": "رياضة",
     "order": 1
   },
   {
     "name": "beIN Sports 2",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/sport2.png",
     "streamUrl": "http://renvioweb.online:8080/305623682974/358358139605/721665",
+    "category": "رياضة",
     "order": 2
   },
   {
     "name": "beIN Sports 3",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/sport3.png",
     "streamUrl": "http://renvioweb.online:8080/376397337639/304442641534/721669",
+    "category": "رياضة",
     "order": 3
   },
   {
     "name": "beIN Sports 4",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/sport4.png",
     "streamUrl": "http://renvioweb.online:8080/141517551336/350772252851/721673",
+    "category": "رياضة",
     "order": 4
   },
   {
     "name": "beIN Sports 5",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/sport5.png",
     "streamUrl": "http://renvioweb.online:8080/133983069999/199473158520/721675",
+    "category": "رياضة",
     "order": 5
   },
   {
     "name": "beIN Sports 6",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/sport6.png",
     "streamUrl": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8",
+    "category": "رياضة",
     "order": 6
   },
   {
     "name": "beIN Sports 7",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/sport7.png",
     "streamUrl": "http://renvioweb.online:8080/305623682974/358358139605/721665",
+    "category": "رياضة",
     "order": 7
   },
   {
     "name": "beIN Sports 8",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/sport8.png",
     "streamUrl": "http://renvioweb.online:8080/305623682974/358358139605/721665",
+    "category": "رياضة",
     "order": 8
   },
   {
     "name": "Spicy Sport TRT",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/trt1.png",
     "streamUrl": "https://tv-trt1.medya.trt.com.tr/master_480.m3u8",
+    "category": "رياضة",
     "order": 9
     },
   {
     "name": "Alkass 1",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/sport9.png",
     "streamUrl": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8",
+    "category": "رياضة",
     "order": 10
     },
   {
     "name": "Alkass 2",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/sport10.png",
     "streamUrl": "https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8",
+    "category": "رياضة",
     "order": 11
     },
   {
     "name": "AlSharqiya Live",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/news.png",
     "streamUrl": "https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8",
+    "category": "اخبار",
     "order": 12
     },
   {
     "name": "Al Sharqiya",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/Tv1.png",
     "streamUrl": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8",
+    "category": "عام",
     "order": 13
     },
   {
     "name": "Full Action Movies",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/Tv2.png",
     "streamUrl": "https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8",
+    "category": "افلام",
     "order": 14
     },
   {
     "name": "Star TV",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/Tv3.png",
     "streamUrl": "https://dogus-live.daioncdn.net/startv/startv_720p-1783905260000.ts?",
+    "category": "افلام",
     "order": 15
     },
   {
     "name": "MBC3",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/keds1.png",
     "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
+    "category": "اطفال",
     "order": 16
     },
   {
     "name": "Al Arabiya",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/news1.png",
     "streamUrl": "https://live.alarabiya.net/alarabiapublish/aaprograms.smil/alarabiapublish/aaprograms_480p/chunks.m3u8",
+    "category": "اخبار",
     "order": 17
     },
   {
     "name": "Al Hadath",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/news2.png",
     "streamUrl": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_360p/chunks.m3u8
+    "category": "اخبار",
 ",
     "order": 18
     },
@@ -112,18 +130,21 @@
     "name": "Sky News Arabia",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/news3.png",
     "streamUrl": "https://stream.skynewsarabia.com/ott/index__4.m3u8",
+    "category": "اخبار",
     "order": 19
     },
   {
     "name": "Turkmenistan Sport",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/news4.png",
     "streamUrl": "https://corsply-v0s4.cfallinone.workers.dev/?url=https%3A%2F%2Falpha.tv.online.tm%2Fhls%2Fch004_720%2Findex.m3u8",
+    "category": "رياضه",
     "order": 20
     },
   {
     "name": "Kanal 7",
     "logoUrl": "https://raw.githubusercontent.com/engfaris98/sports-channels/main/Tv4.png",
     "streamUrl": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8",
+    "category": "تركي",
     "order": 21
     }
 ]
