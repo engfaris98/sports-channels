@@ -1,8 +1,8 @@
 [
   { "competitionCode": "PL", "channelName": "beIN Sports 1" },
-  { "competitionCode": "PD", "channelName": "beIN Sports 2" },
-  { "competitionCode": "CL", "channelName": "beIN Sports 3" },
-  { "competitionCode": "SA", "channelName": "beIN Sports 4" },
-  { "competitionCode": "BL1", "channelName": "beIN Sports 5" },
-  { "competitionCode": "FL1", "channelName": "beIN Sports 6" }
+{ "competitionCode": "PD", "channelName": "beIN Sports 2" },
+{ "competitionCode": "CL", "channelName": "beIN Sports 3" },
+{ "competitionCode": "SA", "channelName": "beIN Sports 4" },
+{ "competitionCode": "BL1", "channelName": "beIN Sports 5" },
+{ "competitionCode": "FL1", "channelName": "beIN Sports 6" }
 ]
